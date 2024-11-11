@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Dashboard from '../components/Dashboard';
 import LeadCard from '../components/LeadCard';
 import ViewToggle from '../components/ViewToggle';

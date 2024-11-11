@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
-import { ChevronLeft, ChevronRight, Check, Search, Database, Award, Clock, X } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Check, Search, Database, Award, X } from 'lucide-react';
 
 import hero from "../../public/Business support-rafiki.svg"
 import {
