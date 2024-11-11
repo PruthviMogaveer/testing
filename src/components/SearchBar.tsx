@@ -7,7 +7,6 @@ const SearchBar = ({ searchTerm, setSearchTerm }) => (
     value={searchTerm}
     onChange={(e) => setSearchTerm(e.target.value)}
     className="w-full"
-    icon={<Search className="w-4 h-4" />}
   />
 );
 
